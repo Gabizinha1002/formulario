@@ -16,9 +16,13 @@ button{
 
 form{
     color: rgb(117, 117, 240);
-    padding: 50px;
+    padding: 50px 0 50px 50px;
     font-size: 20px;
 }
 input, select, textarea{
     font-size: 18px;
+}
+h1{
+    padding: 50px 50px 20px 50px;
+    color: rgb(117, 117, 240);
 }
